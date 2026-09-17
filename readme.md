@@ -18,4 +18,3 @@ Student management system is ready for additional features.
 - Student search
 - Student records
 - Student information update
-
