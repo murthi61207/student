@@ -1,3 +1,5 @@
 101 - Rahul - CSE
 102 - Priya - ECE
 103 - Arjun - IT
+104 - Sneha - CSE
+105 - Karan - ME

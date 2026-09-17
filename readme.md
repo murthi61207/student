@@ -5,3 +5,4 @@ A simple system to manage student information.
 ## Features
 
 - Student search
+- Student records
