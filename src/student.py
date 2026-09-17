@@ -3,3 +3,6 @@ class Student:
         self.student_id = student_id
         self.name = name
         self.department = department
+
+def update_department(self, department):
+    self.department = department        
